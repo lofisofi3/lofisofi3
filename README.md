@@ -1,5 +1,5 @@
 - 👋 Hi, I’m never boring
-- 👀 I’m interested in Blockchain, Cryptocurrency, Data Science, User Experience, Quality Assurance 
+- 👀 I’m interested in Blockchain, Cryptocurrency, Data Science, UX, Quality Assurance 
 - 🌱 I’m currently learning something new everyday
 - 💞️ I’m looking to collaborate on world impact projects 
 - 📫 How to reach me ... challenge accepted? 
