@@ -1,7 +1,7 @@
-- 👋 Hi, I’m never boring
+- 👋 Hi, I’m never boring, suck at coding, and want to change the world using technology
 - 👀 I’m interested in Blockchain, Cryptocurrency, Data Science, UX, Quality Assurance 
 - 🌱 I’m currently learning something new everyday
-- 💞️ I’m looking to collaborate on world impact projects 
+- 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me ... challenge accepted? 
 
 <!---
